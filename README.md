@@ -9,3 +9,8 @@ In this example, the code is applied to maximize profit for a farmer by determin
 * Python 3.x
 * NumPy: The algorithm requires numpy for efficient matrix and vector computations.
 Install dependencies using: `pip install numpy`
+
+***
+The code is flexible and can be extended to solve other types of linear programming problems by modifying the input matrices and objective function.
+
+Feel free to explore the code, modify it for other linear programming problems, and see how the Simplex algorithm finds optimal solutions.
